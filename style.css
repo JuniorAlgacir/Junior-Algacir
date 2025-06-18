@@ -2,10 +2,10 @@ body{
     background-color: black;
     color: white;
     font-family: "Chakra Petch"sans-serif;
-    H1{
+    h1{
         font-size: 40px;
     }
-    P{
+    p{
         font-size: 20px;
     }
 }
