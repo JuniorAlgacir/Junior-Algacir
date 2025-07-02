@@ -15,13 +15,9 @@ h1 {
 
     }
 
-    header {
-        font-size: 50px;
-    }
-}
-
-header {
-    border: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-}
+   section {
+background: rgb(184, 256, 213);
+padding-bottom: 80px;
+padding-top: 80px;
+   }
+   
