@@ -15,9 +15,8 @@ h1 {
 
     }
 
-   section {
-    background: rgb(184, 256, 213) ;
-padding-bottom: 80px;
-padding-top: 80px;
-   }
-   
+    section {
+        background: rgb(184, 256, 213);
+        padding-bottom: 80px;
+        padding-top: 80px;
+    }
